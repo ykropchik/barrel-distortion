@@ -1,5 +1,4 @@
 import cv2 as cv
-import dlib
 import numpy as np
 
 WINDOW_NAME = "Test"
